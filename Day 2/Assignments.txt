@@ -1,0 +1,4 @@
+Day 7:
+week 2 Day 2:
+#1. In given Ticket  Booking REST example, develop Ticket cancel feature?
+#2. In given Controller Advice Customer example, make changes to throw CustomerAlreadyExistsException if customer id is between 20 and 30?

@@ -1,0 +1,7 @@
+Day 6:
+Week 2 Day 1:
+
+#1. In springdi_objectsi_2 application make source code changes to create Salary class, and add salary as data member to Employee class?
+#2. In above example create jar out of Employee, Address, Salary class, and add jar to build path of Project.
+#3. In springdi_collectionlist_9 example, make source code changes to add multiple string tags to the question?
+#4. In 14z_dynamic_values example provided, make changes to add float parameter to constructor, also make required changes in main and configuration classes.
