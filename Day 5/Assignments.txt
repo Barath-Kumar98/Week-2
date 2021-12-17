@@ -1,0 +1,10 @@
+Day 10:
+Week2 Day 5:
+
+#1. Make necessary changes in given Transaction app, to use REQUIRED propogation for outer Transaction and REQUIRES_NEW for inner Transaction.Provide the behavior for all combinations of exceptions occurring in the inner and outer method.
+(Outer_Exception, No_Inner_Exception) - Outer_Not_Saved, Inner_Saved
+(No_Outer_Exception, Inner_Exception) - Outer_Not_Saved, Inner_Not_Saved
+(Outer_Exception, Inner_Exception) - Outer_Not_Saved, Inner_Not_Saved
+(No_Outer_Exception, No_Inner_Exception) - Outer_Saved, Inner_Saved
+
+#2. Make necessary changes in RestTemplate application, to delete an existing Customer, using exchange()

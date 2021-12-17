@@ -1,0 +1,10 @@
+Day 9:
+Week2 Day 4:
+
+#0. In pagination & sort project, create atleast 5 to 6 records, check working of pagination
+
+#1. In the Ticket spring boot example, create another Entity class User(with fields id, name, email id, contact no), and create one to one relationship between User and Ticket
+
+#2. Import spring-boot-actuator project, run it,
+localhost:6949/actuator
+localhost:6949/actuator/beans
